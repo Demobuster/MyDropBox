@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=554642504382ec1745000091
+org.jboss.tools.openshift.ApplicationName=box
+org.jboss.tools.openshift.Connection=https\://esrb07%40mail.ru@
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=serzh
+org.jboss.tools.openshift.RemoteName=origin
